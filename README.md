@@ -7,6 +7,7 @@ I'm a final-year CSE student who loves building real things — web apps and rob
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Pramanik-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/joy-pramanik-13b6633a1)
 [![Email](https://img.shields.io/badge/Email-joypk827%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:joypk827@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-joypramanik02-181717?style=flat&logo=github)](https://github.com/joypramanik02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joypramanik02.github.io-2563EB?style=flat&logo=github)](https://github.com/joypramanik02/portfolio-website-)
 
 ---
 
@@ -35,6 +36,7 @@ I'm a final-year CSE student who loves building real things — web apps and rob
 
 | Project | What it does | Tech |
 |---|---|---|
+| [Portfolio Website](https://github.com/joypramanik02/portfolio-website-) | My personal portfolio — About, Skills, Projects, Achievements, Education, Contact | HTML, CSS, JavaScript |
 | [CholoGhuri](https://github.com/joypramanik02/chologhuri) | Tour & travel booking system — browse packages, book trips, coupons, wishlist, demo payments, reviews, plus an Admin Panel | PHP, MySQL, HTML, CSS, JavaScript |
 | [Tour and Travel Booking](https://github.com/joypramanik02/joypramanik02-s-Org) | Easy tour and travel booking — package browsing, quick booking, price calculation, ticket vouchers | TypeScript |
 | E-commerce Website — Team Leader | A web-based shopping platform | HTML, CSS, JavaScript, PHP, MySQL |
