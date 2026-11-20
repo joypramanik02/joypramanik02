@@ -2,13 +2,13 @@
 
 ![Joy Pramanik — CSE Student, Southeast University, Dhaka](banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=CSE+Student;Web+Apps+%26+Robots;Tour+Booking+Systems;Open+to+Internships)](https://git.io/typing-svg)
+### `CSE Student  •  Web Apps  •  Robots`
 
-![Profile views](https://komarev.com/ghpvc/?username=joypramanik02&color=2563eb&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Pramanik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joy-pramanik-13b6633a1)
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-joypramanik02.github.io-2563EB?style=for-the-badge&logo=github)](https://joypramanik02.github.io/portfolio-website-/)
-[![Email](https://img.shields.io/badge/Email-joypk827%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:joypk827@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-joypramanik02-181717?style=for-the-badge&logo=github)](https://github.com/joypramanik02)
+[![Gmail](https://img.shields.io/badge/GMAIL-joypk827%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joypk827@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-joypramanik02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joypramanik02)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live_Site-2563EB?style=flat-square&logo=github&logoColor=white)](https://joypramanik02.github.io/portfolio-website-/)
+![Profile views](https://komarev.com/ghpvc/?username=joypramanik02&color=8b5cf6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/joypramanik02?style=flat-square&color=8b5cf6&label=FOLLOWERS)
 
 </div>
 
@@ -18,34 +18,28 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
-I'm **Joy Pramanik**, a final-year **Computer Science & Engineering** student at **Southeast University, Dhaka**. I love building real things — web apps people can use, and robots that actually move.
+Hi, I'm **Joy Pramanik** — a **BSc in CSE student at Southeast University, Dhaka, Bangladesh**, building my career in web development and robotics.
 
-- 🔭 I'm currently building more projects and pushing them to GitHub
-- 🌱 I work with **web development** and **robotics** — PHP, MySQL, JavaScript, ESP32 and Arduino
-- 👥 I've led team projects — as **Team Leader** for my e-commerce website, Arduino Rover and Line Following Robot
-- 🎯 I'm looking for **internship and entry-level CSE / IT opportunities** where I can learn, contribute, and grow with a team
-- 📍 Based in **Mohakhali, Dhaka, Bangladesh**
-- 🗣️ Bangla (native) • English (intermediate)
+I love turning ideas into real products. I work with **HTML, CSS, JavaScript, PHP, MySQL, ESP32 and Arduino Nano** to build websites, booking systems and robots that actually work.
+
+> **🌐 Web Development:** I build full websites — from an e-commerce platform to tour booking systems and my own portfolio.
+>
+> **🤖 Robotics:** I build robots with ESP32 and Arduino Nano — a rover and a line-following robot, both as team leader.
+>
+> **✈️ Tour Booking:** I build booking systems where people browse packages, book trips, use coupons and pay — with an Admin Panel behind it.
+
+I'm looking for **internship and entry-level CSE / IT opportunities** where I can learn, contribute, and grow with a team.
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-### 🌐 My Portfolio
+<img src="about-art.svg" width="380" alt="Joy Pramanik — code, web and robots" />
 
-**Live website — like a mini CV**
+**🌐 Live Portfolio**
 
-👉 **[joypramanik02.github.io/portfolio-website-/](https://joypramanik02.github.io/portfolio-website-/)**
-
-About, Skills, Projects, Achievements, Education and Contact — all in one place.
-
-<br>
-
-### 🏆 Highlight
-
-**2nd Runner-Up — RoboSoccer**
-JnU AI & IT Fest 2026
+**[joypramanik02.github.io/portfolio-website-/](https://joypramanik02.github.io/portfolio-website-/)**
 
 </td>
 </tr>
@@ -73,18 +67,18 @@ JnU AI & IT Fest 2026
 **Embedded & Hardware:** ESP32, Arduino Nano
 **Tools:** Git, GitHub, VS Code, Arduino IDE
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -153,9 +147,9 @@ A line-following robot built using Arduino Nano.
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/GMAIL-joypk827%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joypk827@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joy%20Pramanik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joy-pramanik-13b6633a1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2563EB?style=for-the-badge&logo=github)](https://joypramanik02.github.io/portfolio-website-/)
-[![Email](https://img.shields.io/badge/Email-joypk827%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:joypk827@gmail.com)
 
 **💬 Open to internship and entry-level CSE / IT opportunities — let's talk!**
 
@@ -167,6 +161,6 @@ A line-following robot built using Arduino Nano.
 
 ### Thanks for visiting! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=joypramanik02&color=2563eb&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=joypramanik02&color=8b5cf6&style=flat-square)
 
 </div>

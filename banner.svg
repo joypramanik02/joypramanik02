@@ -1,38 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1e3a8a"/>
-      <stop offset="100%" stop-color="#0369a1"/>
-    </linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.05"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="80%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
     </linearGradient>
   </defs>
-  <rect width="1280" height="360" fill="url(#bg)"/>
-  <g stroke="#38bdf8" stroke-opacity="0.35" fill="none" stroke-width="2">
-    <path d="M0 300 L220 300 L280 240 L520 240 L580 180 L900 180"/>
-    <path d="M0 330 L180 330 L240 270 L480 270"/>
-    <circle cx="220" cy="300" r="6" fill="#38bdf8" stroke="none"/>
-    <circle cx="580" cy="180" r="6" fill="#38bdf8" stroke="none"/>
-    <circle cx="900" cy="180" r="6" fill="#7dd3fc" stroke="none"/>
+  <rect width="1280" height="380" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.14">
+    <circle cx="110" cy="70" r="46"/>
+    <circle cx="1180" cy="60" r="70"/>
+    <circle cx="1080" cy="300" r="34"/>
+    <rect x="180" y="260" width="14" height="14" rx="3" transform="rotate(20 187 267)"/>
+    <rect x="1120" y="180" width="12" height="12" rx="3" transform="rotate(30 1126 186)"/>
   </g>
-  <g fill="#7dd3fc" font-family="monospace" font-weight="bold">
-    <text x="1020" y="90" font-size="52" opacity="0.9">&lt;/&gt;</text>
-    <text x="1080" y="180" font-size="44" opacity="0.7">{ }</text>
-    <text x="980" y="270" font-size="36" opacity="0.6">01</text>
+  <g fill="#ffffff" opacity="0.85" font-family="monospace" font-weight="bold">
+    <text x="90" y="90" font-size="34">&lt;/&gt;</text>
+    <text x="1140" y="120" font-size="30">{ }</text>
   </g>
-  <g fill="none" stroke="#7dd3fc" stroke-opacity="0.8" stroke-width="3">
-    <rect x="1020" y="200" width="150" height="100" rx="10"/>
-    <line x1="1020" y1="230" x2="1170" y2="230"/>
-    <rect x="1050" y="300" width="90" height="8" rx="4"/>
-  </g>
-  <circle cx="90" cy="70" r="42" fill="#38bdf8" opacity="0.12"/>
-  <circle cx="1180" cy="60" r="60" fill="#ffffff" opacity="0.06"/>
-  <text x="70" y="130" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" fill="#ffffff">Joy Pramanik</text>
-  <text x="72" y="180" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" fill="#e0f2fe">Computer Science &amp; Engineering Student</text>
-  <text x="72" y="215" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#bae6fd">Southeast University, Dhaka</text>
-  <rect x="70" y="245" width="560" height="44" rx="22" fill="url(#card)" stroke="#38bdf8" stroke-opacity="0.5"/>
-  <text x="92" y="274" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#ffffff">Web Apps  •  Robots  •  Tour Booking Systems</text>
+  <text x="640" y="150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#ffffff">Joy Pramanik</text>
+  <text x="640" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" fill="#ffffff">CSE Student  |  Web Apps  |  Robotics  |  Tour Booking Systems</text>
+  <text x="640" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#f0e6ff">Southeast University, Dhaka  •  Open to Internships</text>
+  <path d="M0 320 Q 160 285 320 315 T 640 310 T 960 315 T 1280 305 L 1280 380 L 0 380 Z" fill="#ffffff"/>
+  <path d="M0 340 Q 200 310 420 338 T 840 335 T 1280 330 L 1280 380 L 0 380 Z" fill="#ffffff" opacity="0.55"/>
 </svg>
