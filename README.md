@@ -84,6 +84,10 @@ I'm looking for **internship and entry-level CSE / IT opportunities** where I ca
 
 ## 🚀 Featured Projects
 
+### 🚆 [Railway Ticket Tracker](https://github.com/joypramanik02/railway-ticket-tracker) — [🔴 Live](https://joypramanik02.github.io/railway-ticket-tracker/)
+Search Bangladesh Railway trains, compare sample fares by class, check demo seat availability, and save trips and seat alerts.
+`HTML` `CSS` `JavaScript`
+
 ### 🌐 [Portfolio Website](https://github.com/joypramanik02/portfolio-website-) — [🔴 Live](https://joypramanik02.github.io/portfolio-website-/)
 My personal portfolio — About, Skills, Projects, Achievements, Education and Contact.
 `HTML` `CSS` `JavaScript`
